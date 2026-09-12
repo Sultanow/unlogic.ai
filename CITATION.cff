@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use material from this repository, please cite it as described below."
+
+title: "unlogic.ai"
+
+authors:
+  - family-names: "Sultanow"
+    given-names: "Eldar"
+    orcid: "https://orcid.org/0000-0001-5257-2236"
+
+repository-code: "https://github.com/<YOUR-GITHUB-USERNAME>/unlogic.ai"
+
+url: "https://github.com/<YOUR-GITHUB-USERNAME>/unlogic.ai"
+
+license: "CC-BY-4.0"
+
+abstract: >
+  unlogic.ai is a collection of media, illustrations, visualizations,
+  statistics, texts, datasets, and supporting scripts exploring the
+  paradoxes, limitations, and societal and economic implications of
+  artificial intelligence.
+
+keywords:
+  - artificial intelligence
+  - AI
+  - unlogic
+  - AI paradoxes
+  - automation
+  - economics
+  - strategy
+  - creativity
+  - decision making
+  - visualization
